@@ -6,11 +6,11 @@ public class Main {
         // стоимости билета, другую для хранения количества
         // рублей для одной бонусной мили
 
-        int milya;
-        milya = ticket/bonus;
+        int mile;
+        mile = ticket/bonus;
 
         System.out.println("Количество начисленных миль за купленный билет:");
-        System.out.println(milya + " миль");
+        System.out.println(mile + " миль");
 
         // Рассчитываете количество бонусных миль, используя
         // значения заведённых переменных. Ответ сохраняете в
