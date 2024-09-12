@@ -11,6 +11,7 @@ public class Main {
 
         int mile;
         mile = ticket / bonus;
+
         System.out.println("Количество начисленных миль за купленный билет:");
         System.out.println(mile + " миль");
 
